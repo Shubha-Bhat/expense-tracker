@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+target/
+
+# IDE files
+.mvn/
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Logs
+*.log
+
+# Database
+*.db
